@@ -442,8 +442,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.2930869, y: 0.64563257, z: -0.2955639, w: -0.6402348}
+  m_LocalPosition: {x: 10.153692, y: 9.494679, z: 0.2654139}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -506,6 +506,7 @@ GameObject:
   - component: {fileID: 382082894}
   - component: {fileID: 382082893}
   - component: {fileID: 382082897}
+  - component: {fileID: 382082898}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -633,6 +634,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &382082898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 382082892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5920fcc6d030fec4ba9004251f40d6bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController1
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
