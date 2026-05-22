@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fa8260dc502e4d4a941ab883f20d0f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199700
+  packageName: Wireframe Shader Effect
+  packageVersion: 1.0
+  assetPath: Assets/Azerilo/Demo/Model/textures/dragon mat.mat
+  uploadId: 445503
