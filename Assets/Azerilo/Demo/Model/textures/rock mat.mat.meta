@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f43380e9b9421e4f88d22f98a3b561f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199700
+  packageName: Wireframe Shader Effect
+  packageVersion: 1.0
+  assetPath: Assets/Azerilo/Demo/Model/textures/rock mat.mat
+  uploadId: 445503
