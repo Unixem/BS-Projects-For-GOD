@@ -20,12 +20,14 @@ MonoBehaviour:
     - 9c53962885c2c4f449125a979d6ad240
     - 5cfe03d4ad6c71540b8515d7aca30857
     - 2f9271a3707e81f4b9b090ec6294d78a
+    - 0c849e4bb43b56d428d72910496dff75
+    - 460fcde06d449574688839652444c8b1
     values:
     - iconNameOrGuid: 
       colorIndex: 0
       isIconRecursive: 0
       isColorRecursive: 0
-    - iconNameOrGuid: 
+    - iconNameOrGuid: Light Icon
       colorIndex: 2
       isIconRecursive: 0
       isColorRecursive: 0
@@ -39,6 +41,14 @@ MonoBehaviour:
       isColorRecursive: 0
     - iconNameOrGuid: 
       colorIndex: 8
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: Prefab Icon
+      colorIndex: 6
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: 
+      colorIndex: 6
       isIconRecursive: 0
       isColorRecursive: 0
     - iconNameOrGuid: Prefab Icon

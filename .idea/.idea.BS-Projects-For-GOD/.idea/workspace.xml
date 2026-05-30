@@ -1,7 +1,666 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db1e99b5-6f8a-45ab-85b7-27c61b2c9cbe" name="Changes" comment="" />
+    <list default="true" id="db1e99b5-6f8a-45ab-85b7-27c61b2c9cbe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BS-Projects-For-GOD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BS-Projects-For-GOD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory/Editor/ThirdParty.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory/Editor/ThirdParty/SQLite.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory/Editor/ThirdParty/SQLite/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory/Editor/ThirdParty/SQLite/Plugins/x64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory/Editor/ThirdParty/SQLite/Plugins/x64/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetInventory/Editor/ThirdParty/SQLite/Plugins/x64/sqlite3.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Demo Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Demo Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Dragon Animator Controller.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Dragon Animator Controller.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/DragonKnight_test.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/DragonKnight_test.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_Glossiness_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_Glossiness_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_emissive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_emissive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_normalmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_normalmap.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/DragonKnight_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_roughness_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/Rock_roughness_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/dragon mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/dragon mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/rock mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Model/textures/rock mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Wireframe Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Wireframe Materials/Wire Material 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Wireframe Materials/Wire Material 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Wireframe Materials/Wire Material 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Demo/Wireframe Materials/Wire Material 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/Core.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/Core.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/Wireframe.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/Wireframe.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/WireframeShader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Azerilo/Wireframe Shader/WireframeShader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/DamageNumbersPro.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/DamageNumbersPro.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/Crosshair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/Crosshair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/DNP_C#.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/DNP_C#.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/DNP_ExampleGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/DNP_ExampleGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/DNP_ExampleMesh.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/DNP_ExampleMesh.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/Demo_GUI_Popup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/Demo_GUI_Popup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/Demo_Popup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo C#/Demo_Popup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_2D.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_2D.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_3D.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_3D.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_3D_HDRP.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_3D_HDRP.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_3D_URP.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_3D_URP.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_UI.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/DNP_UI.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_10x1_HDRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_10x1_HDRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_10x8_HDRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_10x8_HDRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_1x10_HDRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_1x10_HDRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_1x1_HDRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_1x1_HDRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_2x5_HDRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_2x5_HDRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_4x8_HDRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_4x8_HDRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_Ground_HDRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/HDRP/DNP_Ground_HDRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_10x1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_10x1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_10x8.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_10x8.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_1x1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_1x1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_1x10.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_1x10.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_2x5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_2x5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_4x8.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_4x8.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_Gold.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_Gold.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_Ground.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_Ground.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_Highlight.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/Standard/DNP_Highlight.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_10x1_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_10x1_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_10x8_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_10x8_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_1x10_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_1x10_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_1x1_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_1x1_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_2x5_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_2x5_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_4x8_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_4x8_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_Ground_URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Materials/URP/DNP_Ground_URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models/Target.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models/Target/Target.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models/Target/Target.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models/Target/Target.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models/Target/Target.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models/Target/Target.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Models/Target/Target.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/PostProcessing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/PostProcessing/DNP Bloom HDRP.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/PostProcessing/DNP Bloom HDRP.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/PostProcessing/DNP Bloom URP.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/PostProcessing/DNP Bloom URP.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/PostProcessing/DNP Bloom.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/PostProcessing/DNP Bloom.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Bleed.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Bleed.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Blood Spread.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Blood Spread.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Blood Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Blood Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Clear.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Clear.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Comic.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Comic.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Decimals.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Decimals.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Dot Separation.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Dot Separation.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Experience.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Experience.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Flames.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Flames.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Gold.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Gold.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Mana.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Mana.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Neon Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Neon Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Percentage.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Percentage.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Pixel Heal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Pixel Heal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Pixel Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Pixel Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Poison.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Poison.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Red Glow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Red Glow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Red Shadow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Red Shadow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Saw Neon.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Saw Neon.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Spread Up.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/2D/Spread Up.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Bleed.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Bleed.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Blood Spread.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Blood Spread.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Blood Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Blood Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Clear.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Clear.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Comic.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Comic.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Decimals.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Decimals.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Dot Separation.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Dot Separation.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Experience.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Experience.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Flames.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Flames.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Gold.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Gold.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Mana.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Mana.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Neon Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Neon Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Percentage.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Percentage.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Pixel Heal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Pixel Heal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Pixel Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Pixel Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Poison.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Poison.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Red Glow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Red Glow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Red Shadow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Red Shadow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Saw Neon.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Saw Neon.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Spread Up.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/3D/Spread Up.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Bleed.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Bleed.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Blood Spread.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Blood Spread.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Blood Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Blood Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Clear.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Clear.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Comic.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Comic.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Decimals.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Decimals.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Dot Separation.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Dot Separation.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Experience.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Experience.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Flames.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Flames.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Gold.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Gold.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Mana.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Mana.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Neon Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Neon Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Percentage.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Percentage.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Pixel Heal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Pixel Heal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Pixel Text.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Pixel Text.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Poison.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Poison.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Red Glow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Red Glow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Red Shadow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Red Shadow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Saw Neon.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Saw Neon.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Spread Up.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Prefabs/UI/Spread Up.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_2DDemo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_2DDemo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_Camera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_Camera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_Crosshair.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_Crosshair.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_CubeHighlight.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_CubeHighlight.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_CubeSpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_CubeSpawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_CursorHint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_CursorHint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_DemoManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_DemoManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_FallingCube.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_FallingCube.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_GUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_GUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_InputHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_InputHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_PrefabSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_PrefabSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_SineFadeText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_SineFadeText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_Target.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_Target.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_UIArea.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_UIArea.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_UIMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Scripts/DNP_UIMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Shaders/Target.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Shaders/Target.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/2D/DNP_Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/2D/DNP_Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/3D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/3D/DNP_Crosshair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/3D/DNP_Crosshair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/3D/DNP_Cube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/3D/DNP_Cube.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/Sprites/Other.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/Sprites/Other/DNP_Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/Sprites/Other/DNP_Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/Sprites/Other/DNP_Grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Demo/Textures/Sprites/Other/DNP_Grass.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Documentation.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Documentation.url.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Basic Lerp.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Basic Lerp.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Basic Velocity.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Basic Velocity.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Bounce.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Bounce.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Clear.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Clear.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Combine.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Combine.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Fast Stack.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Fast Stack.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Push Up.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Push Up.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Replace.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Replace.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Spread Up.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Spread Up.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Spread.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Spread.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Stack Ascend.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Stack Ascend.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Stack Spread.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Behaviour/Stack Spread.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Bounce Up.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Bounce Up.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Collapse.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Collapse.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Fall.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Fall.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Flip.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Flip.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Fusion.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Fusion.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Instant.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Instant.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Just Alpha.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Just Alpha.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Scale.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Scale.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Shake.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Shake.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Snap.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Snap.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Stamp.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Stamp.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Twist.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade In/Twist.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Bounce.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Bounce.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Fall.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Fall.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Flip.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Flip.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Fusion.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Fusion.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Just Alpha.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Just Alpha.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Melt.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Melt.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Pop.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Pop.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Rise.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Rise.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Shrink.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Shrink.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Twist.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Fade Out/Twist.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Glow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Glow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Shadow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Basic/Basic Shadow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Blood Gore.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Blood Gore.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Blood Thick.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Blood Thick.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Blood Thin.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Blood Thin.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Poison Thick.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Poison Thick.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Poison Thin.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Blood/Poison Thin.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Cool.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Cool/Gold.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Cool/Gold.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Cool/Healh.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Cool/Healh.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Cool/Mana.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Cool/Mana.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Fire.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Fire/Fire Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Fire/Fire Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Fire/Fire Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Fire/Fire Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Blue.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Blue.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Cyan.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Cyan.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Green.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Green.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Magenta.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Magenta.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Orange.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Orange.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Purple.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Purple.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Red.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Red.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Yellow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Neon/Neon Yellow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Glow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Glow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Shadow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Pixel/Pixel Shadow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Glow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Glow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Neon.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Neon.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Saw/Saw Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Smear.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Smear/Smear Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Smear/Smear Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Smear/Smear Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Style/Smear/Smear Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Textures/DNP_Banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Editor/Resources/DNP/Textures/DNP_Banner.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPBloody.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPBloody.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPFire.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPFire.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPPixel.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPPixel.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPSaw.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPSaw.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPSmeary.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Fonts/DNPSmeary.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Game Creator.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Game Creator.zip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Cool.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Cool.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Glow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Glow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Shadow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Basic/Basic-Shadow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Blood-Gore.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Blood-Gore.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Blood-Thick.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Blood-Thick.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Blood-Thin.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Blood-Thin.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Poison-Thick.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Poison-Thick.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Poison-Thin.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Bloody/Poison-Thin.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Cool.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Cool/Gold.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Cool/Gold.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Cool/Health.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Cool/Health.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Cool/Mana.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Cool/Mana.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Fire.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Fire/Fire-Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Fire/Fire-Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Fire/Fire-Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Fire/Fire-Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Blue.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Blue.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Cyan.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Cyan.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Green.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Green.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Magenta.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Magenta.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Orange.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Orange.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Purple.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Purple.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Red.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Red.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Yellow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Neon/Neon-Yellow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Glow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Glow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Shadow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Pixel/Pixel-Shadow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Comic.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Comic.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Saw-Glow.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Saw-Glow.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Saw-Neon.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Saw-Neon.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Saw.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Saw/Saw.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Smear.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Smear/Smear Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Smear/Smear Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Smear/Smear Outline.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Smear/Smear Outline.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Utility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Utility/DNP Sprite Overlay.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Materials/Utility/DNP Sprite Overlay.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Playmaker.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Playmaker.zip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/DamageNumberGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/DamageNumberGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/DamageNumberMesh.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/DamageNumberMesh.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DNPPreset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DNPPreset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DNPType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DNPType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DNPUpdater.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DNPUpdater.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DamageNumber.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/DamageNumber.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/Editor/DNPEditorInternal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/Editor/DNPEditorInternal.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/Editor/DNPPresetEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/Editor/DNPPresetEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/Editor/DamageNumberEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Internal/Editor/DamageNumberEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/CollisionSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/CollisionSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/ColorByNumberSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/ColorByNumberSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/CombinationSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/CombinationSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/DestructionSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/DestructionSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/DigitSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/DigitSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/DistanceScalingSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/DistanceScalingSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/FollowSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/FollowSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/LerpSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/LerpSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/PushSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/PushSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/ScaleByNumberSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/ScaleByNumberSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/ShakeSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/ShakeSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/TextSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/TextSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/VelocitySettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Settings/VelocitySettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Utility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Utility/DamageNumberSprite.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Utility/DamageNumberSprite.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Utility/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Utility/Editor/DamageNumberSpriteEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Scripts/Utility/Editor/DamageNumberSpriteEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Shaders/Sprite Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamageNumbersPro/Shaders/Sprite Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntenseNation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntenseNation/Editor Auto Save.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntenseNation/Editor Auto Save/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntenseNation/Editor Auto Save/Editor/EditorAutoSave.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntenseNation/Editor Auto Save/Editor/EditorAutoSave.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntenseNation/Editor Auto Save/Guide.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntenseNation/Editor Auto Save/Guide.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelsnStuffLol/Game 1/Base1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LevelsnStuffLol/Game 1/Base1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Folder.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayThings/vFolders/vFolders Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayThings/vFolders/vFolders Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pre-fabs/FunStuff/SpinnerCubeLol .prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pre-fabs/FunStuff/SpinnerCubeLol .prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/ParticlePack/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/ParticlePack/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/PrototypeGrid_Albedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/PrototypeGrid_Albedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/PrototypeGrid_Emission.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/PrototypeGrid_Emission.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day_Desaturated.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day_Desaturated.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day_Desaturated.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Day_Desaturated.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night_Desaturated.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night_Desaturated.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night_Desaturated.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/LivingParticles/Resources/EnvironmentMaterials/Skybox_Night_Desaturated.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/PostProcessingV2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/PostProcessingV2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/PostProcessingV2/New Post-processing Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/PostProcessingV2/New Post-processing Profile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/SineVFX/PostProcessingV2/New Post-processing Profile.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/SineVFX/PostProcessingV2/New Post-processing Profile.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +668,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/LevelsnStuffLol/Game 1/Scripts/DummyBoyScript1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LevelsnStuffLol/Game 1/Scripts/MainMenu1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -18,20 +681,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Game-1-Roll-A-Ball-n-Folders-+-Stuff",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Game-1-Roll-A-Ball-n-Folders-+-Stuff&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Builds\TempBSVersion.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\unixe\OneDrive\Documents\UnityShitttt\MessingIWthUnity\BS-Projects-For-GOD\Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.4.7f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\unixe\OneDrive\Documents\UnityShitttt\MessingIWthUnity\BS-Projects-For-GOD -debugCodeOptimization" />
@@ -86,6 +757,15 @@
       <workItem from="1779466840166" duration="4000" />
       <workItem from="1779476940179" duration="152000" />
       <workItem from="1779477937865" duration="358000" />
+      <workItem from="1779735868736" duration="601000" />
+      <workItem from="1779736506861" duration="1494000" />
+      <workItem from="1779740133183" duration="73000" />
+      <workItem from="1779740238418" duration="158000" />
+      <workItem from="1779740501989" duration="3831000" />
+      <workItem from="1779937800479" duration="2202000" />
+      <workItem from="1780022183414" duration="706000" />
+      <workItem from="1780022907371" duration="1050000" />
+      <workItem from="1780070053917" duration="2885000" />
     </task>
     <servers />
   </component>
